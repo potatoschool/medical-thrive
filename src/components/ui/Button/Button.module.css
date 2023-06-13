@@ -1,0 +1,42 @@
+.container {
+  display: flex;
+  align-items: center;
+
+  padding: 1.04166666667rem 2.77777777778rem; 
+
+  cursor: pointer;
+
+  border-radius: 0.34722222222rem;
+}
+
+.container-after {
+  text-transform: uppercase;
+
+  padding: 1.04166666667rem 1.73611111111rem; 
+}
+
+.container--default {
+  color:#ffffff;
+
+  background-color: #FC724D;
+
+  font-weight: 400;
+}
+.container--minimal {
+
+}
+.container--outlined {
+  font-weight: 700;
+
+  border-color: #FC724D;
+  border-width: 0.06944444444rem;
+  border-style: solid;
+}
+
+.position-after {
+  padding-left: 1.04166666667rem;
+}
+
+.after {
+  width: 0.83333333333rem;
+}

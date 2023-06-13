@@ -1,0 +1,13 @@
+.navigation {
+  display: flex;
+  align-items: center;
+}
+
+.item {
+  padding: 0 0.72916666666rem;
+
+  cursor: pointer;
+
+  font-weight: 400;
+  font-size: 0.97222222222rem;
+}

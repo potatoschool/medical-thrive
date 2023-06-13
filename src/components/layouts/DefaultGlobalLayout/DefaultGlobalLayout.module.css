@@ -1,0 +1,40 @@
+.container {
+  position: relative;
+}
+
+.position {
+  position: relative;
+  z-index: 1;
+}
+
+.position-header {
+  padding: 1.18055555556rem 13.5416666667rem
+}
+
+.position-shape-left {
+  position: absolute;
+  top:0;
+  left: 0;
+
+  width: 63.1944444444rem;
+
+  z-index: 0;
+}
+
+.position-shape-right {
+  position: absolute;
+  top:0;
+  right: 0;
+
+  width: 36.8055555556rem;
+
+  z-index: 0;
+}
+
+@media screen and (min-width: 1440px) {
+  .container {
+    max-width: 1440px;
+
+    margin: 0 auto;
+  }
+}
