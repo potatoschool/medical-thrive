@@ -1,7 +1,8 @@
 {
-  "name": "markup",
+  "name": "medical-thrive",
   "version": "0.1.0",
   "private": true,
+  "author": "Potato School <hello@potato.school>",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
